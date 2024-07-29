@@ -31,5 +31,3 @@ The network contains the following labels. Note that some muscles were grouped t
 14, Fibula
 15, Talus
 16, Calcaneus
-
-
