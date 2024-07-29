@@ -17,11 +17,11 @@ The network contains the following labels. Note that some muscles were grouped t
 
 1, Lateral gastrocnemius  
 2, Medial gastrocnemius  
-3, Soleus posterior  
-4, Soleus anterior  
+3, Soleus (posterior part)  
+4, Soleus (anterior part)  
 5, Plantaris  
 6, Tibialis anterior  
-7, Tibialis posterir  
+7, Tibialis posterior  
 8, Extensor digitorum longus/Extensor hallucis longus/Peroneus tertius  
 9, Peroneus brevis/longus  
 10, Popliteus  
